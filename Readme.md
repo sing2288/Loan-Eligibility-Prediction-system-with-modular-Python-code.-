@@ -13,24 +13,24 @@ The model takes input such as gender, income, credit history, education and educ
 
 # Folder Structure 
 loan_eligibility_project/
-├── app/
-│   └── app.py                  # Streamlit application
-├── modules/
-│   ├── data_loader.py          # Data loading logic
-│   ├── preprocessing.py        # Data cleaning and preprocessing
-│   ├── model.py                # Model training and saving
-│   ├── predict.py              # Model loading and predictions
-│   └── utils.py                # Logging setup
-├── data/
-│   └── credit.csv              # Source dataset
-├── models/
-│   └── loan_model.pkl          # Trained model file
-├── logs/
-│   └── app.log                 # Application logs
-├── train.py                    # Script to train and save the model
-├── requirements.txt            # Python dependencies
-├── README.md                   # Project documentation
-└── .gitignore                  # Files to exclude from version control
+ ├── app/
+ │   └── app.py                  # Streamlit application
+ ├── modules/
+ │   ├── data_loader.py          # Data loading logic
+ │   ├── preprocessing.py        # Data cleaning and preprocessing
+ │   ├── model.py                # Model training and saving
+ │   ├── predict.py              # Model loading and predictions
+ │   └── utils.py                # Logging setup
+ ├── data/
+ │   └── credit.csv              # Source dataset
+ ├── models/
+ │   └── loan_model.pkl          # Trained model file
+ ├── logs/
+ │   └── app.log                 # Application logs
+ ├── train.py                    # Script to train and save the model
+ ├── requirements.txt            # Python dependencies
+ ├── README.md                   # Project documentation
+ └── .gitignore                  # Files to exclude from version control
 
 
 # Steps to run the Project.
@@ -60,5 +60,6 @@ The Project requires the folowing python libraries
 
 # License
 The project is made for eductaional purposes.
+
 
 
