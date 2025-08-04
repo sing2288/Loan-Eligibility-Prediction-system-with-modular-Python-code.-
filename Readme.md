@@ -47,16 +47,17 @@ python train.py
 4. Run the Streamlit App
 streamlit run app/app.py
 
-# Depnedencies
+# Depenedencies
 The Project requires the folowing python libraries 
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-streamlit
-joblib
-logging
+1.pandas
+2.numpy
+3.scikit-learn
+4.matplotlib
+5.seaborn
+6.streamlit
+7.joblib
+8.logging
 
 # License
 The project is made for eductaional purposes.
+
