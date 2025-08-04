@@ -1,0 +1,78 @@
+2025-08-01 17:35:58,529 - INFO - Logging initialized.
+2025-08-01 17:35:58,567 - INFO - Data loaded successfully from data/credit.csv
+2025-08-01 17:35:58,610 - INFO - Data cleaned successfully.
+2025-08-01 17:35:58,920 - ERROR - Error training model: [Errno 2] No such file or directory: 'models/loan_model.pkl'
+2025-08-01 17:37:57,872 - INFO - Logging initialized.
+2025-08-01 17:37:57,882 - INFO - Data loaded successfully from data/credit.csv
+2025-08-01 17:37:57,906 - INFO - Data cleaned successfully.
+2025-08-01 17:37:58,192 - INFO - Model trained and saved to models/loan_model.pkl
+2025-08-01 17:40:04,249 - INFO - Logging initialized.
+2025-08-01 17:40:04,257 - INFO - Data loaded successfully from data/credit.csv
+2025-08-01 17:40:04,286 - INFO - Data cleaned successfully.
+2025-08-01 17:40:04,637 - INFO - Model trained and saved to models/loan_model.pkl
+2025-08-01 17:42:16,560 - INFO - Logging initialized.
+2025-08-01 17:42:16,570 - INFO - Data loaded successfully from data/credit.csv
+2025-08-01 17:42:16,580 - INFO - Data cleaned successfully.
+2025-08-01 17:42:17,400 - INFO - Model trained and saved to models/loan_model.pkl
+2025-08-01 17:44:11,190 - INFO - Logging initialized.
+2025-08-01 17:44:11,207 - INFO - Data loaded successfully from data/credit.csv
+2025-08-01 17:44:11,219 - INFO - Data cleaned successfully.
+2025-08-01 17:44:11,675 - INFO - Model trained and saved to models/loan_model.pkl
+2025-08-01 17:45:14,240 - INFO - Logging initialized.
+2025-08-01 17:45:14,251 - INFO - Data loaded successfully from data/credit.csv
+2025-08-01 17:45:14,261 - INFO - Data cleaned successfully.
+2025-08-01 17:45:14,921 - INFO - Model trained and saved to models/loan_model.pkl
+2025-08-01 17:48:05,276 - INFO - Logging initialized.
+2025-08-01 17:48:06,925 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:49:07,524 - INFO - Logging initialized.
+2025-08-01 17:49:07,555 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:49:07,585 - ERROR - Prediction error: y contains previously unseen labels: '360.0'
+2025-08-01 17:49:51,456 - INFO - Logging initialized.
+2025-08-01 17:49:51,485 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:49:51,513 - ERROR - Prediction error: y contains previously unseen labels: '240.0'
+2025-08-01 17:50:02,221 - INFO - Logging initialized.
+2025-08-01 17:50:02,242 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:50:02,274 - ERROR - Prediction error: y contains previously unseen labels: '12.0'
+2025-08-01 17:52:43,713 - INFO - Logging initialized.
+2025-08-01 17:52:43,726 - INFO - Data loaded successfully from data/credit.csv
+2025-08-01 17:52:43,740 - INFO - Data cleaned successfully.
+2025-08-01 17:52:44,129 - INFO - Model trained and saved to models/loan_model.pkl
+2025-08-01 17:53:09,579 - INFO - Logging initialized.
+2025-08-01 17:53:12,226 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:53:25,412 - INFO - Logging initialized.
+2025-08-01 17:53:25,433 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:53:37,419 - INFO - Logging initialized.
+2025-08-01 17:53:37,443 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:53:43,243 - INFO - Logging initialized.
+2025-08-01 17:53:43,276 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:53:50,522 - INFO - Logging initialized.
+2025-08-01 17:53:50,550 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:53:54,842 - INFO - Logging initialized.
+2025-08-01 17:53:54,873 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:54:07,922 - INFO - Logging initialized.
+2025-08-01 17:54:07,958 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:54:11,442 - INFO - Logging initialized.
+2025-08-01 17:54:11,462 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:54:14,995 - INFO - Logging initialized.
+2025-08-01 17:54:15,014 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-01 17:55:09,857 - INFO - Logging initialized.
+2025-08-01 17:55:09,887 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-04 15:51:12,348 - INFO - Logging initialized.
+2025-08-04 15:51:14,918 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-04 16:09:06,281 - INFO - Logging initialized.
+2025-08-04 16:09:14,189 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-04 16:09:21,527 - INFO - Logging initialized.
+2025-08-04 16:09:21,545 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-04 16:09:21,609 - ERROR - Prediction error: 'DecisionTreeClassifier' object has no attribute 'monotonic_cst'
+2025-08-04 16:11:57,879 - INFO - Logging initialized.
+2025-08-04 16:12:00,039 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-04 16:12:47,306 - INFO - Logging initialized.
+2025-08-04 16:12:47,327 - INFO - Data loaded successfully from data/credit.csv
+2025-08-04 16:12:47,348 - INFO - Data cleaned successfully.
+2025-08-04 16:12:48,155 - INFO - Model trained and saved to models/loan_model.pkl
+2025-08-04 16:12:57,250 - INFO - Logging initialized.
+2025-08-04 16:12:59,414 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-04 16:13:38,285 - INFO - Logging initialized.
+2025-08-04 16:13:40,591 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-08-04 16:13:46,928 - INFO - Logging initialized.
+2025-08-04 16:13:46,945 - INFO - Model loaded successfully from models/loan_model.pkl
